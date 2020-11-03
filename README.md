@@ -9,3 +9,5 @@ In dit project gaan we een IoT vogelhuisje maken met behulp van de Raspberry Pi.
 *
 
 ## Meer informatie over dit project :
+
+https://github.com/RubenDeLeeuw/Raspberry-Pi-IoT-Vogelhuisje-NL-/wiki
