@@ -10,6 +10,10 @@ In dit project gaan we een IoT vogelhuisje maken met behulp van de Raspberry Pi.
 
 -PIR motion sensor HC-SR501
 
+-2x PiJuice Hat 12.000 mAh batterij
+
+-2x PiJuice Solar Panel 40Watt
+
 ## Meer informatie over dit project :
 
 https://github.com/RubenDeLeeuw/Raspberry-Pi-IoT-Vogelhuisje-NL-/wiki
