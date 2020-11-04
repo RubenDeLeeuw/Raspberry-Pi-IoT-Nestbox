@@ -4,9 +4,9 @@ In dit project gaan we een IoT vogelhuisje maken met behulp van de Raspberry Pi.
 
 ## Onderdelen :
 
-*
-*
-*
+*Raspberry Pi 4
+*Raspberry Pi NoIR Camera V2
+*PIR motion sensor HC-SR501
 
 ## Meer informatie over dit project :
 
