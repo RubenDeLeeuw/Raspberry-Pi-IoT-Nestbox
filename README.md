@@ -4,15 +4,11 @@ In dit project gaan we een IoT vogelhuisje maken met behulp van de Raspberry Pi.
 
 ## Onderdelen :
 
--Raspberry Pi 4
-
--Raspberry Pi NoIR Camera V2
-
--PIR motion sensor HC-SR501
-
--2x PiJuice Hat 12.000 mAh batterij
-
--2x PiJuice Solar Panel 40Watt
+* Raspberry Pi 4
+* Raspberry Pi NoIR Camera V2
+* PIR motion sensor HC-SR501
+* 2x PiJuice Hat 12.000 mAh batterij
+* 2x PiJuice Solar Panel 40Watt
 
 ## Meer informatie over dit project :
 
